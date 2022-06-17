@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Canal RSS</title>
+    <description>Nuestras páginas</description>
+    <item>
+      <title>Sabios guías intérpretes</title>
+      <link>https://www.sabiosguiasinterpretes.com/</link>
+      <description>Nuestra página oficial</description>
+    </item>
+    <item>
+      <title>Para qué sirve el RSSl</title>
+      <link> http://es.geocities.com/rss_guia_facil/para_que_sirve_rss.html </link>
+      <description> Visita la Guía Fácil del RSS y conoce para qué sirve el formato RSS</description>
+      </item>
+  </channel>
+</rss>

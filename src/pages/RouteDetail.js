@@ -1,8 +1,8 @@
 import { useNavigate, useParams } from "react-router-dom";
 import StopMap from "../components/StopMap";
 import { infoRoutes } from "../components/infoRoutes";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
+import NewHeader from "../components/NewHeader";
+import NewFooter from "../components/NewFooter";
 import ScrollToTop from "../components/ScrollToTop";
 import "./RouteDetail.css";
 import { useEffect } from "react";
@@ -42,7 +42,7 @@ export default function RouteDetail() {
   return (
     <>
       <ScrollToTop />
-      <Header />
+      <NewHeader />
       <div className="route-detail-outer-container">
         {
           showRoute(infoRoutes[id])
@@ -51,7 +51,7 @@ export default function RouteDetail() {
           <StopMap location={infoRoutes[id].stops[0].location} />
         </div>
       </div>
-      <Footer />
+      <NewFooter />
     </>
   );
 }

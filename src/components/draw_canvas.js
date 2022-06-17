@@ -86,8 +86,8 @@ function roundRect(ctx, x, y, width, height, radius, fill, stroke) {
   }
 }
 
-function text(ctx) {
+function text(ctx, textToShow) {
   ctx.font = "50px Arial";
   ctx.fillStyle = "rgba(255, 255, 255, 1)";
-  ctx.fillText("Hello World", 50, 70);
+  ctx.fillText(textToShow, 50, 70);
 }

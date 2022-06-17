@@ -42,7 +42,7 @@ export const infoRoutes = [
     id: 2,
     color: "blue",
     name: "Alemán",
-    description: "Ruta por Las Palmas de GC teniendo en cuenta los siguientes puntos de interés: (1) Entrada a la guagua, (2) Teatro y Mercado, (3) Plaza del Rosario, (4) Casa de los Camellos y (5) Casa de la cámara episcopal",
+    description: "Ruta por Las Palmas de GC teniendo en cuenta los siguientes puntos de interés: (1) Entrada a la guagua, (2) Teatro y Mercado, (3) Biblioteca de San Telmo, (4) Avenida Marítima, (5) Museo Elder, Santa Catalina, (6) Mercado del Puerto, (7) Iglesia Roja y (8) Mercado de Vegueta.",
     music: "",
     stops: [
       {
@@ -50,31 +50,49 @@ export const infoRoutes = [
         name: "Entrada a la guagua",
         description: "",
         video: "",
-        location: [27.9086217,-15.3886205]
+        location: [28.103329448639187, -15.415419102815086]
       }, {
         idStop: 2,
-        name: "Iglesia",
+        name: "Teatro y Mercado",
         description: "",
         video: "",
-        location: [27.9560056,-15.4518982]
+        location: [28.10358497365087, -15.41399216771073]
       }, {
         idStop: 3,
-        name: "Plaza del Rosario",
+        name: "Biblioteca de San Telmo",
         description: "",
         video: "",
-        location: [27.9560056,-15.4518982]
+        location: [28.1103509271244, -15.41599680634719]
       }, {
         idStop: 4,
-        name: "Casa de los Camellos",
+        name: "Avenida Marítima",
         description: "",
         video: "",
-        location: [27.9560056,-15.4518982]
+        location: [28.12100114479719, -15.423547237519003]
       }, {
         idStop: 5,
-        name: "Casa de la cámara episcopal",
+        name: "Museo Elder, Santa Catalina",
         description: "",
         video: "",
-        location: [27.9560056,-15.4518982]
+        location: [28.14048656687425, -15.428673008543813]
+      }, {
+        idStop: 6,
+        name: "Mercado del Puerto",
+        description: "",
+        video: "",
+        location: [28.147358823790295, -15.428940495303928]
+      }, {
+        idStop: 7,
+        name: "Iglesia Roja",
+        description: "",
+        video: "",
+        location: [28.135535405293666, -15.430755504683649]
+      }, {
+        idStop: 8,
+        name: "Mercado de Vegueta",
+        description: "",
+        video: "",
+        location: [28.133762116312422, -15.433028442409851]
       },
     ]
   }, {
@@ -243,6 +261,75 @@ export const infoRoutes = [
         description: "",
         video: "",
         location: [27.9560056,-15.4518982]
+      },
+    ]
+  }, {
+    id: 7,
+    color: "orange",
+    name: "Barranco de Azuaje",
+    description: "Ruta por el Barranco de Azuaje en Firgas realizando las 10 paradas que constituyen nuestra visita: (1) Molino de Firgas, (2) Iglesia de San Roque, (3) De camino al barranco, (4) Mirador, (5) Balneario de Azuaje, (6) Zona de descanso, (7) Barranco, (8) Puente tronco, (9) Riachuelo y (10) Entrando al balneario",
+    music: "",
+    stops: [
+      {
+        idStop: 1,
+        name: "Molino de Firgas",
+        description: "",
+        video: "",
+        location: [28.107009850222887, -15.562517360041307]
+      }, {
+        idStop: 2,
+        name: "Iglesia de San Roque",
+        description: "",
+        video: "",
+        location: [28.107769497427622, -15.562863659003622]
+      }, {
+        idStop: 3,
+        name: "De camino al barranco",
+        description: "",
+        video: "",
+        location: [28.10547787567796, -15.572341973180066]
+      }, {
+        idStop: 4,
+        name: "Mirador",
+        description: "",
+        video: "",
+        location: [28.10546841196142, -15.572352702005787]
+      }, {
+        idStop: 5,
+        name: "Balneario de Azuaje",
+        description: "",
+        video: "",
+        location: [28.10818770783991, -15.570803030845648]
+      }, {
+        idStop: 6,
+        name: "Zona de descanso",
+        description: "",
+        video: "",
+        location: [28.10546841196142, -15.572352702005787]
+      }, {
+        idStop: 7,
+        name: "Barranco",
+        description: "",
+        video: "",
+        location: [27.9560056,-15.4518982]
+      }, {
+        idStop: 8,
+        name: "Puente tronco",
+        description: "",
+        video: "",
+        location: [28.10546841196142, -15.572352702005787]
+      }, {
+        idStop: 9,
+        name: "Riachuelo",
+        description: "",
+        video: "",
+        location: [28.10546841196142, -15.572352702005787]
+      }, {
+        idStop: 10,
+        name: "Entrando al balneario",
+        description: "",
+        video: "",
+        location: [28.10818770783991, -15.570803030845648]
       },
     ]
   },

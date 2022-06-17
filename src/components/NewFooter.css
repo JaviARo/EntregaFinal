@@ -1,0 +1,39 @@
+.footer {
+  margin-top: 2em;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(124, 160, 252);
+}
+
+.logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.logos img {
+  width: 15vw;
+  margin: 0 .5em 0;
+}
+
+.cookies {
+  font-size: small;
+  margin: .2em 0 1em;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+}
+
+.rss {
+  cursor: pointer;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+}
+
+.rss:hover {
+  color: gray;
+}

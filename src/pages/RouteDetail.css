@@ -1,5 +1,5 @@
 .route-detail-outer-container {
-  margin: 8em 1em 1em 1em;
+  margin: 2em 1em 1em 1em;
 }
 
 .route-detail-container {
@@ -56,7 +56,7 @@ Extra small (<576px) 	Small (>=576px) 	Medium (>=768px) 	Large (>=992px) 	Extra 
 
 @media screen and (min-width: 576px) {
   .route-detail-outer-container {
-    margin: 8em 2em 2em 2em;
+    margin: 2em 2em 2em 2em;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
