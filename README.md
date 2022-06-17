@@ -16,9 +16,9 @@ excursión realizada por IES El Rincón.
 
 ## Componentes de terceros
 
-El carrusel de imagenes fue sacado del siguiente vídeo: https://www.youtube.com/watch?v=-dqwh8LoMzo
-La integración del link para el RSS ha sido posible gracias a un compañero de clase
-Las imagenes del carrusel y el texto fueron sacados de la página https://www.sabiosguiasinterpretes.com/
+- El carrusel de imagenes fue sacado del siguiente vídeo: https://www.youtube.com/watch?v=-dqwh8LoMzo
+- La integración del link para el RSS ha sido posible gracias a un compañero de clase
+- Las imagenes del carrusel y el texto fueron sacados de la página https://www.sabiosguiasinterpretes.com/
 
 ## Componentes propios usados
 
@@ -26,8 +26,8 @@ Aunque para la cabecera de la página he recurrido a fuentes para ver el funcion
 
 ## Enlaces que me han ayudado
 
-Un vídeo que ha sido utilizado para hacer la cabecera: https://www.youtube.com/watch?v=OuoLQiXPitk
-Tutorial de RSS: https://www.youtube.com/watch?v=0uNZDzi_jYs&t=11s
+- Un vídeo que ha sido utilizado para hacer la cabecera: https://www.youtube.com/watch?v=OuoLQiXPitk
+- Tutorial de RSS: https://www.youtube.com/watch?v=0uNZDzi_jYs&t=11s
 
 ## ¿Cómo acceder a cada página?
 
