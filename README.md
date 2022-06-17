@@ -23,6 +23,7 @@ excursión realizada por IES El Rincón.
 ## Componentes propios usados
 
 Aunque para la cabecera de la página he recurrido a fuentes para ver el funcionamiento, la elaboracion de esta fue propia.
+Los vídeos han sido modificados para ocupar lo menos posible.
 
 ## Enlaces que me han ayudado
 
